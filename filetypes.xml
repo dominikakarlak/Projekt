@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="tablice" type="PHP" />
+      <mapping pattern="node_modules" type="PLAIN_TEXT" />
       <mapping pattern="PHP_Controller" type="PLAIN_TEXT" />
       <mapping pattern="apple.php" type="PLAIN_TEXT" />
     </extensionMap>
